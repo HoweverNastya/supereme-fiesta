@@ -189,5 +189,5 @@ __*Ctrl+S > git add . > git commit -m "master булки added"*__
 
 21) правим прям в тексте - удаляем лишнее в ручную и сохраняемся:
 
-__*Ctrl+S > git add . > git commit -m "conflict solved"*__
+## The end
 
