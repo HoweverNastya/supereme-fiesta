@@ -191,3 +191,4 @@ __*Ctrl+S > git add . > git commit -m "master булки added"*__
 
 __*Ctrl+S > git add . > git commit -m "conflict solved"*__
 
+
